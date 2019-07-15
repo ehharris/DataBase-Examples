@@ -1,0 +1,18 @@
+Checked in 96-42103-10800 to Main!
+Checked in 96-42103-10002 to Main!
+Checked in 96-42103-10401 to South Park!
+Checked in 96-42103-11003 to South Park!
+Successfully checked out 96-42103-10011 to Member 2011!
+Successfully checked out 96-42103-10006 to Member 2011!
+Successfully checked out 96-42103-10604 to Member 2012!
+Successfully checked out 96-42103-10709 to Member 2012!
+Successfully checked out 96-42103-10022 to Member 1400!
+Successfully checked out 96-42103-10709 to Member 2020!
+Successfully checked out 96-42103-10093 to Member 2022!
+Successfully checked out 96-42103-10093 to Member 1800!
+Successfully checked out 96-42103-11709 to Member 1800!
+The following records were unable to be checked in because there is no record of them being checked out!
+Record: MemID: 2022 ISBN: 96-42103-10109 CheckIn Date: 2016/06/11
+The following records were unable to be checked out because book being checked out doesn't exist in our libraries!
+Record: MemID: 2012 ISBN: 97-34506-10709 CheckOut Date: 2016/06/10
+Record: MemID: 2022 ISBN: 97-12413-10093 CheckOut Date: 2016/06/11
